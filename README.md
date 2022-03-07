@@ -1,4 +1,4 @@
-# Food-Website-
+# Food-Website
 Front end for home page
 
 # Getting Started
